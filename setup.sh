@@ -1,5 +1,5 @@
 #!/bin/bash
-if ! command -v yay 2p>&1 > /dev/null
+if ! command -v yay 2>&1 > /dev/null
 then
   git clone https://aur.archlinux.org/yay.git
   cd yay

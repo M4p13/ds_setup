@@ -21,7 +21,7 @@ yay -S plasma sddm openssh tmux kitty wayvnc avahi nss-mdns tailscale \
   plasma-systemmonitor \
   kdeconnect \
   print-manager cups \
-  packagekit-qt5 \
+  packagekit-qt6 \
   bluedevil \
   chromium \
   keepassxc \
